@@ -1,0 +1,1422 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/blog.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://blog.com/wp-includes/css/dist/block-library/style.min.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='main-style-css'  href='http://blog.com/wp-content/themes/Blog/style.css?ver=5.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='grid-style-css'  href='http://blog.com/wp-content/themes/Blog/pages/grid.css?ver=5.8.2' type='text/css' media='all' />
+<link rel="https://api.w.org/" href="http://blog.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blog.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://blog.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.8.2" />
+<meta name="generator" content="Site Kit by Google 1.48.1" /><meta name="google-site-verification" content="oLV7v1bfT_Zze43v1udm0mAhzEgiWmNppBfu92oLsUA">
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8485558309118681" crossorigin="anonymous"></script>
+        <link rel="shortcut icon" href="http://blog.com/wp-content/themes/Blog/logo.png">
+        <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
+        <title>ITshnik &#8212; Блог о мире IT</title>
+    </head>
+
+    <body onclick="hideLanguages(event)">
+        <div id="wrapper">
+        
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js" integrity="sha512-3j3VU6WC5rPQB4Ld1jnLV7Kd5xr+cq9avvhwqzbH/taCRNURoeEpoPBK9pDyeukwSxwRPJ8fDgvYXd6SkaZ2TA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" type="text/javascript"></script>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/4.1.5/css/flag-icons.min.css" integrity="sha512-UwbBNAFoECXUPeDhlKR3zzWU3j8ddKIQQsDOsKhXQGdiB5i3IHEXr9kXx82+gaHigbNKbTDp3VY/G6gZqva6ZQ==" crossorigin="anonymous" referrerpolicy="no-referrer">
+<link rel="stylesheet" href="http://blog.com/wp-content/themes/Blog/style.css">
+
+<header id="header">
+    <div class="header__top">
+        <div class="container" style="position: relative;">
+            <div class="header__top__logo">
+                <h1><a href='/'>ITshnik &#8212; Блог о мире IT</a></h1>
+            </div>
+
+            <nav class="header__top__menu">
+                <ul>
+                    <li><a href="/">Главная</a></li>
+                    <li><a href="/about-me">Обо мне</a></li>
+                    <li><a href="/articles/?pages=1">Все статьи</a></li>
+                    <li><a class="languages-link" style="cursor: pointer; display: block;" onclick="showLanguages()">Язык</a></li>
+                </ul>
+            </nav>
+
+            <div class="languages">
+                <div class="selected-language" style="top: 0"></div>
+
+                <div class="language" onclick="translatePage(0)">
+                    <div class="language-icon">
+                        <span class="flag-icon flag-icon-ru" style="background-image: url(https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/4.1.5/flags/4x3/ru.svg) !important"></span>
+                    </div>
+
+                    <div class="language-main">
+                        <span class='ru'></span>
+                    </div>
+                </div>
+
+                <div class="language" onclick="translatePage(1)">
+                    <div class="language-icon">
+                        <span class="flag-icon flag-icon-ua" style="background-image: url(https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/4.1.5/flags/4x3/ua.svg) !important"></span>
+                    </div>
+
+                    <div class="language-main">
+                        <span class='uk'></span>
+                    </div>
+                </div>
+
+                <div class="language" onclick="translatePage(2)">
+                    <div class="language-icon">
+                        <span class="flag-icon flag-icon-us" style="background-image: url(https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/4.1.5/flags/4x3/us.svg) !important"></span>
+                    </div>
+
+                    <div class="language-main">
+                        <span class='en'></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="header__bottom">
+        <div class="container">
+            <nav>
+                <ul>
+                                                <li><a href="/articles/?pages=1&category=1">Спорт (1)</a></li>
+                                                        <li><a href="/articles/?pages=1&category=2">Кулинария (1)</a></li>
+                                                        <li><a href="/articles/?pages=1&category=3">Садоводство (1)</a></li>
+                                                        <li><a href="/articles/?pages=1&category=4">Программирование (3)</a></li>
+                                                        <li><a href="/articles/?pages=1&category=5">Lifestyle (1)</a></li>
+                                                        <li><a href="/articles/?pages=1&category=6">Игры (1)</a></li>
+                                                        <li><a href="/articles/?pages=1&category=7">Безопасность (1)</a></li>
+                                                        <li><a href="/articles/?pages=1&category=8">Хакерство (5)</a></li>
+                                                        <li><a href="/articles/?pages=1&category=9">Природа (1)</a></li>
+                                                        <li><a href="/articles/?pages=1&category=10">Разное (2)</a></li>
+                                            </ul>
+            </nav>
+        </div>
+    </div>
+</header>
+
+<script>
+    function showLanguages() {
+        const languages = document.querySelector('.languages')
+        languages.classList.toggle('active')
+    }
+
+    function translatePage(id) {
+        if (id == 0)
+            var lang = 'ru'
+        else if (id == 1)
+            var lang = 'uk'
+        else if (id == 2)
+            var lang = 'en'
+        
+        var selectedLanguage = document.querySelector('.selected-language')
+        selectedLanguage.style.top = 45 * id + 'px'
+
+        $.cookie('googtrans', '/ru/' + lang, { path: '/' })
+        new google.translate.TranslateElement({
+            pageLanguage:'ru',
+            layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+            autoDisplay: false
+        }, 'header')
+
+        const languagesLink = document.querySelector('.languages-link')
+        languagesLink.style.display = 'none'
+    }
+
+    function hideLanguages(event) {
+        const languages = document.querySelector('.languages')
+        var el = event.target, isLanguages = false
+
+        if (el.className == 'languages-link')
+            return
+
+        if (languages.classList.contains('active'))
+            languages.classList.remove('active')
+    }
+</script>
+            <div id="content">
+                <div class="container">
+                    <div class="row">
+                        <section class="content__left col-md-8">
+                            <div class="block">
+                                <a onclick="showNewArticles()">Все статьи</a>
+                                <h3>Новейшее в блоге</h3>
+
+                                <div class="block__content">
+                                    <div class="articles articles__horizontal articles-new">
+                                        
+                                        <article class="article">
+                                            <div class="article__image" style="background-image: url(http://blog.com/wp-content/themes/Blog/static/antivirus.jpg);"></div>
+                                            <div class="article__info">
+                                                <a href="/article/?id=19">Топ 10 лучших антивирусов за 2021 год!</a>
+                                                <div class="article__info__meta">
+                                                    
+                                                    <small>Категория: <a href="/articles/?pages=1&category=7">Безопасность</a></small>
+                                                </div>
+                                            <div class="article__info__preview">Lorem ipsum dolor sit amet, consectetur adipisicin ...</div>
+                                        </div>
+                                    </article>
+
+                                    
+                                        <article class="article">
+                                            <div class="article__image" style="background-image: url(http://blog.com/wp-content/themes/Blog/static/prisoner.jpg);"></div>
+                                            <div class="article__info">
+                                                <a href="/article/?id=18">Почему быть хакером - полный отстой?</a>
+                                                <div class="article__info__meta">
+                                                    
+                                                    <small>Категория: <a href="/articles/?pages=1&category=8">Хакерство</a></small>
+                                                </div>
+                                            <div class="article__info__preview">Lorem ipsum dolor sit amet, consectetur adipisicin ...</div>
+                                        </div>
+                                    </article>
+
+                                    
+                                        <article class="article">
+                                            <div class="article__image" style="background-image: url(http://blog.com/wp-content/themes/Blog/static/hacking.jpg);"></div>
+                                            <div class="article__info">
+                                                <a href="/article/?id=17">Как взломать "Блог IT Минималиста" в 2021 году?</a>
+                                                <div class="article__info__meta">
+                                                    
+                                                    <small>Категория: <a href="/articles/?pages=1&category=8">Хакерство</a></small>
+                                                </div>
+                                            <div class="article__info__preview">Lorem ipsum dolor sit amet, consectetur adipisicin ...</div>
+                                        </div>
+                                    </article>
+
+                                    
+                                        <article class="article">
+                                            <div class="article__image" style="background-image: url(http://blog.com/wp-content/themes/Blog/static/anonymous.jpg);"></div>
+                                            <div class="article__info">
+                                                <a href="/article/?id=16">Как узнать IP любого человека?</a>
+                                                <div class="article__info__meta">
+                                                    
+                                                    <small>Категория: <a href="/articles/?pages=1&category=8">Хакерство</a></small>
+                                                </div>
+                                            <div class="article__info__preview">Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+                                        </div>
+                                    </article>
+
+                                    
+                                        <article class="article">
+                                            <div class="article__image" style="background-image: url(http://blog.com/wp-content/themes/Blog/static/mustang.jpg);"></div>
+                                            <div class="article__info">
+                                                <a href="/article/?id=15">Новый спорткар от Mustang?</a>
+                                                <div class="article__info__meta">
+                                                    
+                                                    <small>Категория: <a href="/articles/?pages=1&category=5">Lifestyle</a></small>
+                                                </div>
+                                            <div class="article__info__preview">Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+                                        </div>
+                                    </article>
+
+                                    
+                                        <article class="article">
+                                            <div class="article__image" style="background-image: url(http://blog.com/wp-content/themes/Blog/static/kivy.png);"></div>
+                                            <div class="article__info">
+                                                <a href="/article/?id=14">Обзор новшеств фреймворка Kivy для Python</a>
+                                                <div class="article__info__meta">
+                                                    
+                                                    <small>Категория: <a href="/articles/?pages=1&category=4">Программирование</a></small>
+                                                </div>
+                                            <div class="article__info__preview">Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+                                        </div>
+                                    </article>
+
+                                    
+                                        <article class="article">
+                                            <div class="article__image" style="background-image: url(http://blog.com/wp-content/themes/Blog/static/fallout.jpg);"></div>
+                                            <div class="article__info">
+                                                <a href="/article/?id=13">Fallout 4 - Мой обзор</a>
+                                                <div class="article__info__meta">
+                                                    
+                                                    <small>Категория: <a href="/articles/?pages=1&category=6">Игры</a></small>
+                                                </div>
+                                            <div class="article__info__preview">Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+                                        </div>
+                                    </article>
+
+                                    
+                                        <article class="article">
+                                            <div class="article__image" style="background-image: url(http://blog.com/wp-content/themes/Blog/static/js.jpg);"></div>
+                                            <div class="article__info">
+                                                <a href="/article/?id=12">Реализация JavaScript в Node.js - В чём подвох?</a>
+                                                <div class="article__info__meta">
+                                                    
+                                                    <small>Категория: <a href="/articles/?pages=1&category=4">Программирование</a></small>
+                                                </div>
+                                            <div class="article__info__preview">Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+                                        </div>
+                                    </article>
+
+                                    
+                                        <article class="article">
+                                            <div class="article__image" style="background-image: url(http://blog.com/wp-content/themes/Blog/static/hacker.jpg);"></div>
+                                            <div class="article__info">
+                                                <a href="/article/?id=11">10 самых известных хакеров мира!</a>
+                                                <div class="article__info__meta">
+                                                    
+                                                    <small>Категория: <a href="/articles/?pages=1&category=8">Хакерство</a></small>
+                                                </div>
+                                            <div class="article__info__preview">Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+                                        </div>
+                                    </article>
+
+                                    
+                                        <article class="article">
+                                            <div class="article__image" style="background-image: url(http://blog.com/wp-content/themes/Blog/static/web_design.jpg);"></div>
+                                            <div class="article__info">
+                                                <a href="/article/?id=10">Веб дизайн в 2021 году!</a>
+                                                <div class="article__info__meta">
+                                                    
+                                                    <small>Категория: <a href="/articles/?pages=1&category=10">Разное</a></small>
+                                                </div>
+                                            <div class="article__info__preview">Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+                                        </div>
+                                    </article>
+
+                                                                    </div>
+                            </div>
+                        </div>
+
+                        <div class="block">
+                            <a onclick="showOldArticles(1)">Все статьи</a>
+                            <h3>Старейшее в блоге</h3>
+
+                            <div class="block__content">
+                                <div class="articles articles__horizontal articles-old">
+                                    
+                                    <article class="article">
+                                        <div class="article__image" style="background-image: url(http://blog.com/wp-content/themes/Blog/static/soup.jpg);"></div>
+                                            <div class="article__info">
+                                                <a href="/article/?id=1">Как приготовить суп?</a>
+                                                <div class="article__info__meta">
+                                                    
+                                                    <small>Категория: <a href="/articles/?category=2">Кулинария</a></small>
+                                                </div>
+                                            <div class="article__info__preview">Lorem ipsum dolor sit amet, consectetur adipisicin ...</div>
+                                        </div>
+                                    </article>
+
+                                    
+                                    <article class="article">
+                                        <div class="article__image" style="background-image: url(http://blog.com/wp-content/themes/Blog/static/food.jpg);"></div>
+                                            <div class="article__info">
+                                                <a href="/article/?id=2">Питание для эффективного похудения</a>
+                                                <div class="article__info__meta">
+                                                    
+                                                    <small>Категория: <a href="/articles/?category=1">Спорт</a></small>
+                                                </div>
+                                            <div class="article__info__preview">Lorem ipsum dolor sit amet, consectetur adipisicin ...</div>
+                                        </div>
+                                    </article>
+
+                                    
+                                    <article class="article">
+                                        <div class="article__image" style="background-image: url(http://blog.com/wp-content/themes/Blog/static/lorem_ipsum.jpg);"></div>
+                                            <div class="article__info">
+                                                <a href="/article/?id=3">Что такое "Lorem Ipsum"?</a>
+                                                <div class="article__info__meta">
+                                                    
+                                                    <small>Категория: <a href="/articles/?category=4">Программирование</a></small>
+                                                </div>
+                                            <div class="article__info__preview">Lorem ipsum dolor sit, amet consectetur adipisicin ...</div>
+                                        </div>
+                                    </article>
+
+                                    
+                                    <article class="article">
+                                        <div class="article__image" style="background-image: url(http://blog.com/wp-content/themes/Blog/static/garden.jpg);"></div>
+                                            <div class="article__info">
+                                                <a href="/article/?id=5">Как построить сад?</a>
+                                                <div class="article__info__meta">
+                                                    
+                                                    <small>Категория: <a href="/articles/?category=3">Садоводство</a></small>
+                                                </div>
+                                            <div class="article__info__preview">Lorem ipsum dolor sit amet, consectetur adipisicin ...</div>
+                                        </div>
+                                    </article>
+
+                                    
+                                    <article class="article">
+                                        <div class="article__image" style="background-image: url(http://blog.com/wp-content/themes/Blog/static/snow_leopard.jpg);"></div>
+                                            <div class="article__info">
+                                                <a href="/article/?id=6">Охота на снежного леопарда</a>
+                                                <div class="article__info__meta">
+                                                    
+                                                    <small>Категория: <a href="/articles/?category=9">Природа</a></small>
+                                                </div>
+                                            <div class="article__info__preview">Lorem ipsum dolor sit amet, consectetur adipisicin ...</div>
+                                        </div>
+                                    </article>
+
+                                    
+                                    <article class="article">
+                                        <div class="article__image" style="background-image: url(http://blog.com/wp-content/themes/Blog/static/virus.jpg);"></div>
+                                            <div class="article__info">
+                                                <a href="/article/?id=8">Топ 10 опасных компьютерных вирусов в 2021 году!</a>
+                                                <div class="article__info__meta">
+                                                    
+                                                    <small>Категория: <a href="/articles/?category=8">Хакерство</a></small>
+                                                </div>
+                                            <div class="article__info__preview">Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+                                        </div>
+                                    </article>
+
+                                    
+                                    <article class="article">
+                                        <div class="article__image" style="background-image: url(http://blog.com/wp-content/themes/Blog/static/assassin.jpg);"></div>
+                                            <div class="article__info">
+                                                <a href="/article/?id=9">Фильм Кредо Ассасина - Мой обзор</a>
+                                                <div class="article__info__meta">
+                                                    
+                                                    <small>Категория: <a href="/articles/?category=10">Разное</a></small>
+                                                </div>
+                                            <div class="article__info__preview">Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+                                        </div>
+                                    </article>
+
+                                    
+                                    <article class="article">
+                                        <div class="article__image" style="background-image: url(http://blog.com/wp-content/themes/Blog/static/web_design.jpg);"></div>
+                                            <div class="article__info">
+                                                <a href="/article/?id=10">Веб дизайн в 2021 году!</a>
+                                                <div class="article__info__meta">
+                                                    
+                                                    <small>Категория: <a href="/articles/?category=10">Разное</a></small>
+                                                </div>
+                                            <div class="article__info__preview">Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+                                        </div>
+                                    </article>
+
+                                    
+                                    <article class="article">
+                                        <div class="article__image" style="background-image: url(http://blog.com/wp-content/themes/Blog/static/hacker.jpg);"></div>
+                                            <div class="article__info">
+                                                <a href="/article/?id=11">10 самых известных хакеров мира!</a>
+                                                <div class="article__info__meta">
+                                                    
+                                                    <small>Категория: <a href="/articles/?category=8">Хакерство</a></small>
+                                                </div>
+                                            <div class="article__info__preview">Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+                                        </div>
+                                    </article>
+
+                                    
+                                    <article class="article">
+                                        <div class="article__image" style="background-image: url(http://blog.com/wp-content/themes/Blog/static/js.jpg);"></div>
+                                            <div class="article__info">
+                                                <a href="/article/?id=12">Реализация JavaScript в Node.js - В чём подвох?</a>
+                                                <div class="article__info__meta">
+                                                    
+                                                    <small>Категория: <a href="/articles/?category=4">Программирование</a></small>
+                                                </div>
+                                            <div class="article__info__preview">Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+                                        </div>
+                                    </article>
+
+                                                                    </div>
+                            </div>
+                        </div>
+                    </section>
+            
+                    <section class="content__right col-md-4">
+                        
+<div class="block">
+    <h3>Поиск статей</h3>
+    <div class="block__content">
+        <form class="form search__box" method='get' action="/articles/">
+            <div class="col-md-4 search__box" style="margin-top: 8px; padding-left: 0; padding-right: 0;">
+				<input type="text" name="search_query" class="form__control" placeholder="Название статьи">
+			</div>
+
+            <div class="form__group">
+				<input type="submit" class="form__control" value="Найти" style="margin-top: 20px;">
+			</div>
+        </form>
+    </div>
+</div>
+
+<div class="block">
+    <a onclick="showPopularArticles()">Все статьи</a>
+    <h3>Топ читаемых статей</h3>
+        <div class="block__content">
+            <div class="articles articles__vertical articles-popular" style="margin-top: 32px;">
+
+                
+                        <article class="article" style="margin-top: 16px;">
+                            <div class="article__image" style="background-image: url(http://blog.com/wp-content/themes/Blog/static/hacking.jpg);"></div>
+                            <div class="article__info">
+                                <a href="/article/?id=17">Как взломать "Блог IT Минималиста" в 2021 году?</a>
+                                <div class="article__info__meta">
+
+                                    
+                                    <small>Категория: <a href="/articles?category=8">Хакерство</a></small>
+                                </div>
+
+                            <div class="article__info__preview">Lorem ipsum dolor sit amet, consectetur adipisicin ...</div>
+                        </div>
+                    </article>
+
+                
+                        <article class="article" style="margin-top: 16px;">
+                            <div class="article__image" style="background-image: url(http://blog.com/wp-content/themes/Blog/static/hacker.jpg);"></div>
+                            <div class="article__info">
+                                <a href="/article/?id=11">10 самых известных хакеров мира!</a>
+                                <div class="article__info__meta">
+
+                                    
+                                    <small>Категория: <a href="/articles?category=8">Хакерство</a></small>
+                                </div>
+
+                            <div class="article__info__preview">Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+                        </div>
+                    </article>
+
+                
+                        <article class="article" style="margin-top: 16px;">
+                            <div class="article__image" style="background-image: url(http://blog.com/wp-content/themes/Blog/static/assassin.jpg);"></div>
+                            <div class="article__info">
+                                <a href="/article/?id=9">Фильм Кредо Ассасина - Мой обзор</a>
+                                <div class="article__info__meta">
+
+                                    
+                                    <small>Категория: <a href="/articles?category=10">Разное</a></small>
+                                </div>
+
+                            <div class="article__info__preview">Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+                        </div>
+                    </article>
+
+                
+                        <article class="article" style="margin-top: 16px;">
+                            <div class="article__image" style="background-image: url(http://blog.com/wp-content/themes/Blog/static/virus.jpg);"></div>
+                            <div class="article__info">
+                                <a href="/article/?id=8">Топ 10 опасных компьютерных вирусов в 2021 году!</a>
+                                <div class="article__info__meta">
+
+                                    
+                                    <small>Категория: <a href="/articles?category=8">Хакерство</a></small>
+                                </div>
+
+                            <div class="article__info__preview">Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+                        </div>
+                    </article>
+
+                
+                        <article class="article" style="margin-top: 16px;">
+                            <div class="article__image" style="background-image: url(http://blog.com/wp-content/themes/Blog/static/antivirus.jpg);"></div>
+                            <div class="article__info">
+                                <a href="/article/?id=19">Топ 10 лучших антивирусов за 2021 год!</a>
+                                <div class="article__info__meta">
+
+                                    
+                                    <small>Категория: <a href="/articles?category=7">Безопасность</a></small>
+                                </div>
+
+                            <div class="article__info__preview">Lorem ipsum dolor sit amet, consectetur adipisicin ...</div>
+                        </div>
+                    </article>
+
+                            </div>
+        </div>
+</div>
+
+<div class="block">
+    <a onclick="showComments()">Все комментарии</a>
+    <h3>Комментарии</h3>
+    <div class="block__content">
+        <div class="articles articles__vertical comment" style="margin-top: 32px;">
+
+        
+                <article class="article" style="margin-top: 20px;">
+                    <div class="article__image" style="background-image: url(https://www.gravatar.com/avatar/3a0a6a2f75c5e54a30cb6415d9b0fc42)"></div>
+                    <div class="article__info">
+                        <a href="/article/?id=17">Ilya</a>
+                        <div class="article__info__meta"></div>
+                        <div class="article__info__preview">Этот обзор уже не актуален! На дворе сейчас 2022 год!</div>
+                    </div>
+                </article>
+
+                
+                <article class="article" style="margin-top: 20px;">
+                    <div class="article__image" style="background-image: url(https://www.gravatar.com/avatar/c94855f19a90a1c6c70ff2c01413dd36)"></div>
+                    <div class="article__info">
+                        <a href="/article/?id=16">Азаза</a>
+                        <div class="article__info__meta"></div>
+                        <div class="article__info__preview">Текст комментария ...</div>
+                    </div>
+                </article>
+
+                
+                <article class="article" style="margin-top: 20px;">
+                    <div class="article__image" style="background-image: url(https://www.gravatar.com/avatar/acf9a4ff55759714e7d0bc50e0b7c47b)"></div>
+                    <div class="article__info">
+                        <a href="/article/?id=11">jvckjkfjfkdfj;kl</a>
+                        <div class="article__info__meta"></div>
+                        <div class="article__info__preview">dfgthyuijfhdfs</div>
+                    </div>
+                </article>
+
+                
+                <article class="article" style="margin-top: 20px;">
+                    <div class="article__image" style="background-image: url(https://www.gravatar.com/avatar/7196b7220477e2f92c756281f7292628)"></div>
+                    <div class="article__info">
+                        <a href="/article/?id=10">Web</a>
+                        <div class="article__info__meta"></div>
+                        <div class="article__info__preview">Спасибо большое за полезную информацию.</div>
+                    </div>
+                </article>
+
+                
+                <article class="article" style="margin-top: 20px;">
+                    <div class="article__image" style="background-image: url(https://www.gravatar.com/avatar/c8cf085e17dcdd4bba2b3eb2913a9d02)"></div>
+                    <div class="article__info">
+                        <a href="/article/?id=1">Кулинар</a>
+                        <div class="article__info__meta"></div>
+                        <div class="article__info__preview">Мне эта статья помогла приготовить первый суп в моей жизни. Рекомендую эту статью людям, которые хотят за небольшое количество времени приготовить первый суп в своей жизни.</div>
+                    </div>
+                </article>
+
+                        </div>
+    </div>
+</div>
+
+<script>
+    function showPopularArticles() {
+        var all_articles = ''
+
+        
+        all_articles += `<article class='article' style='margin-top: 20px;'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/hacking.jpg);'></div>
+    <div class='article__info'>
+        <a href='/article/?id=17'>Как взломать "Блог IT Минималиста" в 2021 году?</a>
+        <div class='article__info__meta'>
+            <small>Категория: <a href='/articles?category=8'>Хакерство</a></small>
+        </div>
+        <div class='article__info__preview'>Lorem ipsum dolor sit amet, consectetur adipisicin ...</div>
+    </div>
+</article>`
+                
+        all_articles += `<article class='article' style='margin-top: 20px;'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/hacker.jpg);'></div>
+    <div class='article__info'>
+        <a href='/article/?id=11'>10 самых известных хакеров мира!</a>
+        <div class='article__info__meta'>
+            <small>Категория: <a href='/articles?category=8'>Хакерство</a></small>
+        </div>
+        <div class='article__info__preview'>Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+    </div>
+</article>`
+                
+        all_articles += `<article class='article' style='margin-top: 20px;'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/assassin.jpg);'></div>
+    <div class='article__info'>
+        <a href='/article/?id=9'>Фильм Кредо Ассасина - Мой обзор</a>
+        <div class='article__info__meta'>
+            <small>Категория: <a href='/articles?category=10'>Разное</a></small>
+        </div>
+        <div class='article__info__preview'>Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+    </div>
+</article>`
+                
+        all_articles += `<article class='article' style='margin-top: 20px;'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/virus.jpg);'></div>
+    <div class='article__info'>
+        <a href='/article/?id=8'>Топ 10 опасных компьютерных вирусов в 2021 году!</a>
+        <div class='article__info__meta'>
+            <small>Категория: <a href='/articles?category=8'>Хакерство</a></small>
+        </div>
+        <div class='article__info__preview'>Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+    </div>
+</article>`
+                
+        all_articles += `<article class='article' style='margin-top: 20px;'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/antivirus.jpg);'></div>
+    <div class='article__info'>
+        <a href='/article/?id=19'>Топ 10 лучших антивирусов за 2021 год!</a>
+        <div class='article__info__meta'>
+            <small>Категория: <a href='/articles?category=7'>Безопасность</a></small>
+        </div>
+        <div class='article__info__preview'>Lorem ipsum dolor sit amet, consectetur adipisicin ...</div>
+    </div>
+</article>`
+                
+        all_articles += `<article class='article' style='margin-top: 20px;'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/lorem_ipsum.jpg);'></div>
+    <div class='article__info'>
+        <a href='/article/?id=3'>Что такое "Lorem Ipsum"?</a>
+        <div class='article__info__meta'>
+            <small>Категория: <a href='/articles?category=4'>Программирование</a></small>
+        </div>
+        <div class='article__info__preview'>Lorem ipsum dolor sit, amet consectetur adipisicin ...</div>
+    </div>
+</article>`
+                
+        all_articles += `<article class='article' style='margin-top: 20px;'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/kivy.png);'></div>
+    <div class='article__info'>
+        <a href='/article/?id=14'>Обзор новшеств фреймворка Kivy для Python</a>
+        <div class='article__info__meta'>
+            <small>Категория: <a href='/articles?category=4'>Программирование</a></small>
+        </div>
+        <div class='article__info__preview'>Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+    </div>
+</article>`
+                
+        all_articles += `<article class='article' style='margin-top: 20px;'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/garden.jpg);'></div>
+    <div class='article__info'>
+        <a href='/article/?id=5'>Как построить сад?</a>
+        <div class='article__info__meta'>
+            <small>Категория: <a href='/articles?category=3'>Садоводство</a></small>
+        </div>
+        <div class='article__info__preview'>Lorem ipsum dolor sit amet, consectetur adipisicin ...</div>
+    </div>
+</article>`
+                
+        all_articles += `<article class='article' style='margin-top: 20px;'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/food.jpg);'></div>
+    <div class='article__info'>
+        <a href='/article/?id=2'>Питание для эффективного похудения</a>
+        <div class='article__info__meta'>
+            <small>Категория: <a href='/articles?category=1'>Спорт</a></small>
+        </div>
+        <div class='article__info__preview'>Lorem ipsum dolor sit amet, consectetur adipisicin ...</div>
+    </div>
+</article>`
+                
+        all_articles += `<article class='article' style='margin-top: 20px;'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/mustang.jpg);'></div>
+    <div class='article__info'>
+        <a href='/article/?id=15'>Новый спорткар от Mustang?</a>
+        <div class='article__info__meta'>
+            <small>Категория: <a href='/articles?category=5'>Lifestyle</a></small>
+        </div>
+        <div class='article__info__preview'>Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+    </div>
+</article>`
+                
+        all_articles += `<article class='article' style='margin-top: 20px;'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/web_design.jpg);'></div>
+    <div class='article__info'>
+        <a href='/article/?id=10'>Веб дизайн в 2021 году!</a>
+        <div class='article__info__meta'>
+            <small>Категория: <a href='/articles?category=10'>Разное</a></small>
+        </div>
+        <div class='article__info__preview'>Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+    </div>
+</article>`
+                
+        all_articles += `<article class='article' style='margin-top: 20px;'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/snow_leopard.jpg);'></div>
+    <div class='article__info'>
+        <a href='/article/?id=6'>Охота на снежного леопарда</a>
+        <div class='article__info__meta'>
+            <small>Категория: <a href='/articles?category=9'>Природа</a></small>
+        </div>
+        <div class='article__info__preview'>Lorem ipsum dolor sit amet, consectetur adipisicin ...</div>
+    </div>
+</article>`
+                
+        all_articles += `<article class='article' style='margin-top: 20px;'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/prisoner.jpg);'></div>
+    <div class='article__info'>
+        <a href='/article/?id=18'>Почему быть хакером - полный отстой?</a>
+        <div class='article__info__meta'>
+            <small>Категория: <a href='/articles?category=8'>Хакерство</a></small>
+        </div>
+        <div class='article__info__preview'>Lorem ipsum dolor sit amet, consectetur adipisicin ...</div>
+    </div>
+</article>`
+                
+        all_articles += `<article class='article' style='margin-top: 20px;'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/anonymous.jpg);'></div>
+    <div class='article__info'>
+        <a href='/article/?id=16'>Как узнать IP любого человека?</a>
+        <div class='article__info__meta'>
+            <small>Категория: <a href='/articles?category=8'>Хакерство</a></small>
+        </div>
+        <div class='article__info__preview'>Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+    </div>
+</article>`
+                
+        all_articles += `<article class='article' style='margin-top: 20px;'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/js.jpg);'></div>
+    <div class='article__info'>
+        <a href='/article/?id=12'>Реализация JavaScript в Node.js - В чём подвох?</a>
+        <div class='article__info__meta'>
+            <small>Категория: <a href='/articles?category=4'>Программирование</a></small>
+        </div>
+        <div class='article__info__preview'>Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+    </div>
+</article>`
+                
+        all_articles += `<article class='article' style='margin-top: 20px;'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/soup.jpg);'></div>
+    <div class='article__info'>
+        <a href='/article/?id=1'>Как приготовить суп?</a>
+        <div class='article__info__meta'>
+            <small>Категория: <a href='/articles?category=2'>Кулинария</a></small>
+        </div>
+        <div class='article__info__preview'>Lorem ipsum dolor sit amet, consectetur adipisicin ...</div>
+    </div>
+</article>`
+                
+        all_articles += `<article class='article' style='margin-top: 20px;'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/fallout.jpg);'></div>
+    <div class='article__info'>
+        <a href='/article/?id=13'>Fallout 4 - Мой обзор</a>
+        <div class='article__info__meta'>
+            <small>Категория: <a href='/articles?category=6'>Игры</a></small>
+        </div>
+        <div class='article__info__preview'>Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+    </div>
+</article>`
+                
+        articles = document.querySelector('.articles-popular')
+        articles.innerHTML = all_articles
+    }
+
+    function showComments() {
+        var all_comments = ''
+
+        
+            all_comments += `<article class='article' style='margin-top: 20px;'>
+    <div class='article__image' style='background-image: url(https://www.gravatar.com/avatar/3a0a6a2f75c5e54a30cb6415d9b0fc42?>)'></div>
+    <div class='article__info'>
+        <a href='/article/?id=17'>Ilya</a>
+        <div class='article__info__meta'></div>
+        <div class='article__info__preview'>Этот обзор уже не актуален! На дворе сейчас 2022 год!</div>
+    </div>
+</article>`
+                
+            all_comments += `<article class='article' style='margin-top: 20px;'>
+    <div class='article__image' style='background-image: url(https://www.gravatar.com/avatar/c94855f19a90a1c6c70ff2c01413dd36?>)'></div>
+    <div class='article__info'>
+        <a href='/article/?id=16'>Азаза</a>
+        <div class='article__info__meta'></div>
+        <div class='article__info__preview'>Текст комментария ...</div>
+    </div>
+</article>`
+                
+            all_comments += `<article class='article' style='margin-top: 20px;'>
+    <div class='article__image' style='background-image: url(https://www.gravatar.com/avatar/acf9a4ff55759714e7d0bc50e0b7c47b?>)'></div>
+    <div class='article__info'>
+        <a href='/article/?id=11'>jvckjkfjfkdfj;kl</a>
+        <div class='article__info__meta'></div>
+        <div class='article__info__preview'>dfgthyuijfhdfs</div>
+    </div>
+</article>`
+                
+            all_comments += `<article class='article' style='margin-top: 20px;'>
+    <div class='article__image' style='background-image: url(https://www.gravatar.com/avatar/7196b7220477e2f92c756281f7292628?>)'></div>
+    <div class='article__info'>
+        <a href='/article/?id=10'>Web</a>
+        <div class='article__info__meta'></div>
+        <div class='article__info__preview'>Спасибо большое за полезную информацию.</div>
+    </div>
+</article>`
+                
+            all_comments += `<article class='article' style='margin-top: 20px;'>
+    <div class='article__image' style='background-image: url(https://www.gravatar.com/avatar/c8cf085e17dcdd4bba2b3eb2913a9d02?>)'></div>
+    <div class='article__info'>
+        <a href='/article/?id=1'>Кулинар</a>
+        <div class='article__info__meta'></div>
+        <div class='article__info__preview'>Мне эта статья помогла приготовить первый суп в моей жизни. Рекомендую эту статью людям, которые хотят за небольшое количество времени приготовить первый суп в своей жизни.</div>
+    </div>
+</article>`
+                
+            all_comments += `<article class='article' style='margin-top: 20px;'>
+    <div class='article__image' style='background-image: url(https://www.gravatar.com/avatar/5aa20b0931f53039e245344921845d5f?>)'></div>
+    <div class='article__info'>
+        <a href='/article/?id=8'>Аналитик</a>
+        <div class='article__info__meta'></div>
+        <div class='article__info__preview'>Какие-то говновирусы получились за 2021 год. Надеюсь, что за вторую половину этого года наберётся десяток нормальных вирусов.</div>
+    </div>
+</article>`
+                
+            all_comments += `<article class='article' style='margin-top: 20px;'>
+    <div class='article__image' style='background-image: url(https://www.gravatar.com/avatar/5aa20b0931f53039e245344921845d5f?>)'></div>
+    <div class='article__info'>
+        <a href='/article/?id=9'>Аналитик</a>
+        <div class='article__info__meta'></div>
+        <div class='article__info__preview'>Обзор недостоверный. Лично мне этот обзор не понравился.</div>
+    </div>
+</article>`
+                
+            all_comments += `<article class='article' style='margin-top: 20px;'>
+    <div class='article__image' style='background-image: url(https://www.gravatar.com/avatar/0fd9d985e0c4f517e3ebde12680608b4?>)'></div>
+    <div class='article__info'>
+        <a href='/article/?id=11'>Ilya</a>
+        <div class='article__info__meta'></div>
+        <div class='article__info__preview'>Это была очень крутая статья!</div>
+    </div>
+</article>`
+                
+            all_comments += `<article class='article' style='margin-top: 20px;'>
+    <div class='article__image' style='background-image: url(https://www.gravatar.com/avatar/99b6e43b37dad8fffa8868cc856dbc82?>)'></div>
+    <div class='article__info'>
+        <a href='/article/?id=11'>gdgfhg</a>
+        <div class='article__info__meta'></div>
+        <div class='article__info__preview'>fdkjl;cdfghj</div>
+    </div>
+</article>`
+                
+            all_comments += `<article class='article' style='margin-top: 20px;'>
+    <div class='article__image' style='background-image: url(https://www.gravatar.com/avatar/0ac9c65988be440aa46ac9aaac41aebd?>)'></div>
+    <div class='article__info'>
+        <a href='/article/?id=11'>Best</a>
+        <div class='article__info__meta'></div>
+        <div class='article__info__preview'>Я лично не знаю, что тут написать. :|</div>
+    </div>
+</article>`
+                
+            all_comments += `<article class='article' style='margin-top: 20px;'>
+    <div class='article__image' style='background-image: url(https://www.gravatar.com/avatar/af4a927dd52a71c770ab88db28b15a2d?>)'></div>
+    <div class='article__info'>
+        <a href='/article/?id=11'>Ilya</a>
+        <div class='article__info__meta'></div>
+        <div class='article__info__preview'>Статья мне очень понравилась!</div>
+    </div>
+</article>`
+                
+            all_comments += `<article class='article' style='margin-top: 20px;'>
+    <div class='article__image' style='background-image: url(https://www.gravatar.com/avatar/4969339f1c99fd22faecdd406defd876?>)'></div>
+    <div class='article__info'>
+        <a href='/article/?id=11'>Олег</a>
+        <div class='article__info__meta'></div>
+        <div class='article__info__preview'>Просто оставлю этот комментарий для продвижения этой статьи в тренды.</div>
+    </div>
+</article>`
+                
+            all_comments += `<article class='article' style='margin-top: 20px;'>
+    <div class='article__image' style='background-image: url(https://www.gravatar.com/avatar/1efe5bb8421284a66f9d770fcc2889b9?>)'></div>
+    <div class='article__info'>
+        <a href='/article/?id=9'>Kinofan</a>
+        <div class='article__info__meta'></div>
+        <div class='article__info__preview'>Фильм, конечно, был классным. А вот обзор - говно!</div>
+    </div>
+</article>`
+                
+            all_comments += `<article class='article' style='margin-top: 20px;'>
+    <div class='article__image' style='background-image: url(https://www.gravatar.com/avatar/0a86ab1bb7f6b1607d8a425214b43925?>)'></div>
+    <div class='article__info'>
+        <a href='/article/?id=3'>Guru</a>
+        <div class='article__info__meta'></div>
+        <div class='article__info__preview'>It's a very informative article. I have already put like on this article.</div>
+    </div>
+</article>`
+                
+            all_comments += `<article class='article' style='margin-top: 20px;'>
+    <div class='article__image' style='background-image: url(https://www.gravatar.com/avatar/8c3fe1ad25e6d5f47512ea7365419966?>)'></div>
+    <div class='article__info'>
+        <a href='/article/?id=11'>Тестер</a>
+        <div class='article__info__meta'></div>
+        <div class='article__info__preview'>Это просто тест!</div>
+    </div>
+</article>`
+                
+            all_comments += `<article class='article' style='margin-top: 20px;'>
+    <div class='article__image' style='background-image: url(https://www.gravatar.com/avatar/c65946118b9ec647fe773b4824564d88?>)'></div>
+    <div class='article__info'>
+        <a href='/article/?id=16'>Lobster</a>
+        <div class='article__info__meta'></div>
+        <div class='article__info__preview'>It's fake! I don't belive this article!</div>
+    </div>
+</article>`
+                
+            all_comments += `<article class='article' style='margin-top: 20px;'>
+    <div class='article__image' style='background-image: url(https://www.gravatar.com/avatar/07e7655f7b11a5a84afa062de7e2d0f7?>)'></div>
+    <div class='article__info'>
+        <a href='/article/?id=11'>Rodrigo</a>
+        <div class='article__info__meta'></div>
+        <div class='article__info__preview'>Интересно. Лично я думал, что на первое место попадёт Джонатан Джеймс.</div>
+    </div>
+</article>`
+                
+            all_comments += `<article class='article' style='margin-top: 20px;'>
+    <div class='article__image' style='background-image: url(https://www.gravatar.com/avatar/48dff4ede1b53a87400aab86ec0694cc?>)'></div>
+    <div class='article__info'>
+        <a href='/article/?id=16'>Angry</a>
+        <div class='article__info__meta'></div>
+        <div class='article__info__preview'>Что за бред? Откуда вообще инфа?</div>
+    </div>
+</article>`
+                
+            all_comments += `<article class='article' style='margin-top: 20px;'>
+    <div class='article__image' style='background-image: url(https://www.gravatar.com/avatar/545b7558117dddfba470eb189ae87016?>)'></div>
+    <div class='article__info'>
+        <a href='/article/?id=12'>Benny</a>
+        <div class='article__info__meta'></div>
+        <div class='article__info__preview'>Cool article! It was really fantastic.</div>
+    </div>
+</article>`
+                
+            all_comments += `<article class='article' style='margin-top: 20px;'>
+    <div class='article__image' style='background-image: url(https://www.gravatar.com/avatar/a0e18bac43f8701a930056ec71611952?>)'></div>
+    <div class='article__info'>
+        <a href='/article/?id=8'>Alexander</a>
+        <div class='article__info__meta'></div>
+        <div class='article__info__preview'>Классная статья! Узнал много нового!</div>
+    </div>
+</article>`
+                
+            all_comments += `<article class='article' style='margin-top: 20px;'>
+    <div class='article__image' style='background-image: url(https://www.gravatar.com/avatar/ba5e2f101e3259434799cde9940244e0?>)'></div>
+    <div class='article__info'>
+        <a href='/article/?id=1'>Alex</a>
+        <div class='article__info__meta'></div>
+        <div class='article__info__preview'>Классный получится суп!</div>
+    </div>
+</article>`
+                
+        comments = document.querySelector('.comment')
+        comments.innerHTML = all_comments
+    }
+</script>                    </section>
+                </div>
+            </div>
+        </div>
+
+        
+<footer id="footer">
+    <div class="container">
+        <div class="footer__logo">
+            <h1>ITshnik &#8212; Блог о мире IT</h1>
+        </div>
+
+        <nav class="footer__menu">
+            <ul>
+                <li><a href="/">Главная</a></li>
+                <li><a href="/about-me">Обо мне</a></li>
+                <li><a href="https://www.youtube.com/channel/UCWp-5ZH1E444uZi_eLgiNcg" target="_blank">Я в YouTube</a></li>
+                <li><a href="/copyright">Правообладателям</a></li>
+            </ul>
+        </nav>
+    </div>
+</footer>
+        <script>
+            function showNewArticles() {
+                var all_articles = ''
+
+                
+                        all_articles += `<article class='article'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/antivirus.jpg);'></div>
+        <div class='article__info'>
+            <a href='/article/?id=19'>Топ 10 лучших антивирусов за 2021 год!</a>
+            <div class='article__info__meta'>
+                <small>Категория: <a href='/articles/?category=7'>Безопасность</a></small>
+            </div>
+        <div class='article__info__preview'>Lorem ipsum dolor sit amet, consectetur adipisicin ...</div>
+    </div>
+</article>`
+                        
+                        all_articles += `<article class='article'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/prisoner.jpg);'></div>
+        <div class='article__info'>
+            <a href='/article/?id=18'>Почему быть хакером - полный отстой?</a>
+            <div class='article__info__meta'>
+                <small>Категория: <a href='/articles/?category=8'>Хакерство</a></small>
+            </div>
+        <div class='article__info__preview'>Lorem ipsum dolor sit amet, consectetur adipisicin ...</div>
+    </div>
+</article>`
+                        
+                        all_articles += `<article class='article'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/hacking.jpg);'></div>
+        <div class='article__info'>
+            <a href='/article/?id=17'>Как взломать "Блог IT Минималиста" в 2021 году?</a>
+            <div class='article__info__meta'>
+                <small>Категория: <a href='/articles/?category=8'>Хакерство</a></small>
+            </div>
+        <div class='article__info__preview'>Lorem ipsum dolor sit amet, consectetur adipisicin ...</div>
+    </div>
+</article>`
+                        
+                        all_articles += `<article class='article'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/anonymous.jpg);'></div>
+        <div class='article__info'>
+            <a href='/article/?id=16'>Как узнать IP любого человека?</a>
+            <div class='article__info__meta'>
+                <small>Категория: <a href='/articles/?category=8'>Хакерство</a></small>
+            </div>
+        <div class='article__info__preview'>Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+    </div>
+</article>`
+                        
+                        all_articles += `<article class='article'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/mustang.jpg);'></div>
+        <div class='article__info'>
+            <a href='/article/?id=15'>Новый спорткар от Mustang?</a>
+            <div class='article__info__meta'>
+                <small>Категория: <a href='/articles/?category=5'>Lifestyle</a></small>
+            </div>
+        <div class='article__info__preview'>Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+    </div>
+</article>`
+                        
+                        all_articles += `<article class='article'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/kivy.png);'></div>
+        <div class='article__info'>
+            <a href='/article/?id=14'>Обзор новшеств фреймворка Kivy для Python</a>
+            <div class='article__info__meta'>
+                <small>Категория: <a href='/articles/?category=4'>Программирование</a></small>
+            </div>
+        <div class='article__info__preview'>Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+    </div>
+</article>`
+                        
+                        all_articles += `<article class='article'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/fallout.jpg);'></div>
+        <div class='article__info'>
+            <a href='/article/?id=13'>Fallout 4 - Мой обзор</a>
+            <div class='article__info__meta'>
+                <small>Категория: <a href='/articles/?category=6'>Игры</a></small>
+            </div>
+        <div class='article__info__preview'>Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+    </div>
+</article>`
+                        
+                        all_articles += `<article class='article'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/js.jpg);'></div>
+        <div class='article__info'>
+            <a href='/article/?id=12'>Реализация JavaScript в Node.js - В чём подвох?</a>
+            <div class='article__info__meta'>
+                <small>Категория: <a href='/articles/?category=4'>Программирование</a></small>
+            </div>
+        <div class='article__info__preview'>Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+    </div>
+</article>`
+                        
+                        all_articles += `<article class='article'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/hacker.jpg);'></div>
+        <div class='article__info'>
+            <a href='/article/?id=11'>10 самых известных хакеров мира!</a>
+            <div class='article__info__meta'>
+                <small>Категория: <a href='/articles/?category=8'>Хакерство</a></small>
+            </div>
+        <div class='article__info__preview'>Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+    </div>
+</article>`
+                        
+                        all_articles += `<article class='article'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/web_design.jpg);'></div>
+        <div class='article__info'>
+            <a href='/article/?id=10'>Веб дизайн в 2021 году!</a>
+            <div class='article__info__meta'>
+                <small>Категория: <a href='/articles/?category=10'>Разное</a></small>
+            </div>
+        <div class='article__info__preview'>Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+    </div>
+</article>`
+                        
+                        all_articles += `<article class='article'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/assassin.jpg);'></div>
+        <div class='article__info'>
+            <a href='/article/?id=9'>Фильм Кредо Ассасина - Мой обзор</a>
+            <div class='article__info__meta'>
+                <small>Категория: <a href='/articles/?category=10'>Разное</a></small>
+            </div>
+        <div class='article__info__preview'>Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+    </div>
+</article>`
+                        
+                        all_articles += `<article class='article'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/virus.jpg);'></div>
+        <div class='article__info'>
+            <a href='/article/?id=8'>Топ 10 опасных компьютерных вирусов в 2021 году!</a>
+            <div class='article__info__meta'>
+                <small>Категория: <a href='/articles/?category=8'>Хакерство</a></small>
+            </div>
+        <div class='article__info__preview'>Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+    </div>
+</article>`
+                        
+                        all_articles += `<article class='article'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/snow_leopard.jpg);'></div>
+        <div class='article__info'>
+            <a href='/article/?id=6'>Охота на снежного леопарда</a>
+            <div class='article__info__meta'>
+                <small>Категория: <a href='/articles/?category=9'>Природа</a></small>
+            </div>
+        <div class='article__info__preview'>Lorem ipsum dolor sit amet, consectetur adipisicin ...</div>
+    </div>
+</article>`
+                        
+                        all_articles += `<article class='article'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/garden.jpg);'></div>
+        <div class='article__info'>
+            <a href='/article/?id=5'>Как построить сад?</a>
+            <div class='article__info__meta'>
+                <small>Категория: <a href='/articles/?category=3'>Садоводство</a></small>
+            </div>
+        <div class='article__info__preview'>Lorem ipsum dolor sit amet, consectetur adipisicin ...</div>
+    </div>
+</article>`
+                        
+                        all_articles += `<article class='article'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/lorem_ipsum.jpg);'></div>
+        <div class='article__info'>
+            <a href='/article/?id=3'>Что такое "Lorem Ipsum"?</a>
+            <div class='article__info__meta'>
+                <small>Категория: <a href='/articles/?category=4'>Программирование</a></small>
+            </div>
+        <div class='article__info__preview'>Lorem ipsum dolor sit, amet consectetur adipisicin ...</div>
+    </div>
+</article>`
+                        
+                        all_articles += `<article class='article'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/food.jpg);'></div>
+        <div class='article__info'>
+            <a href='/article/?id=2'>Питание для эффективного похудения</a>
+            <div class='article__info__meta'>
+                <small>Категория: <a href='/articles/?category=1'>Спорт</a></small>
+            </div>
+        <div class='article__info__preview'>Lorem ipsum dolor sit amet, consectetur adipisicin ...</div>
+    </div>
+</article>`
+                        
+                        all_articles += `<article class='article'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/soup.jpg);'></div>
+        <div class='article__info'>
+            <a href='/article/?id=1'>Как приготовить суп?</a>
+            <div class='article__info__meta'>
+                <small>Категория: <a href='/articles/?category=2'>Кулинария</a></small>
+            </div>
+        <div class='article__info__preview'>Lorem ipsum dolor sit amet, consectetur adipisicin ...</div>
+    </div>
+</article>`
+                        
+                articles = document.querySelector('.articles-new')
+                articles.innerHTML = all_articles
+            }
+
+            function showOldArticles() {
+                var all_articles = ''
+
+                
+                        all_articles += `<article class='article'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/soup.jpg);'></div>
+        <div class='article__info'>
+            <a href='/article/?id=1'>Как приготовить суп?</a>
+            <div class='article__info__meta'>
+                <small>Категория: <a href='/articles/?category=2'>Кулинария</a></small>
+            </div>
+        <div class='article__info__preview'>Lorem ipsum dolor sit amet, consectetur adipisicin ...</div>
+    </div>
+</article>`
+                        
+                        all_articles += `<article class='article'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/food.jpg);'></div>
+        <div class='article__info'>
+            <a href='/article/?id=2'>Питание для эффективного похудения</a>
+            <div class='article__info__meta'>
+                <small>Категория: <a href='/articles/?category=1'>Спорт</a></small>
+            </div>
+        <div class='article__info__preview'>Lorem ipsum dolor sit amet, consectetur adipisicin ...</div>
+    </div>
+</article>`
+                        
+                        all_articles += `<article class='article'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/lorem_ipsum.jpg);'></div>
+        <div class='article__info'>
+            <a href='/article/?id=3'>Что такое "Lorem Ipsum"?</a>
+            <div class='article__info__meta'>
+                <small>Категория: <a href='/articles/?category=4'>Программирование</a></small>
+            </div>
+        <div class='article__info__preview'>Lorem ipsum dolor sit, amet consectetur adipisicin ...</div>
+    </div>
+</article>`
+                        
+                        all_articles += `<article class='article'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/garden.jpg);'></div>
+        <div class='article__info'>
+            <a href='/article/?id=5'>Как построить сад?</a>
+            <div class='article__info__meta'>
+                <small>Категория: <a href='/articles/?category=3'>Садоводство</a></small>
+            </div>
+        <div class='article__info__preview'>Lorem ipsum dolor sit amet, consectetur adipisicin ...</div>
+    </div>
+</article>`
+                        
+                        all_articles += `<article class='article'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/snow_leopard.jpg);'></div>
+        <div class='article__info'>
+            <a href='/article/?id=6'>Охота на снежного леопарда</a>
+            <div class='article__info__meta'>
+                <small>Категория: <a href='/articles/?category=9'>Природа</a></small>
+            </div>
+        <div class='article__info__preview'>Lorem ipsum dolor sit amet, consectetur adipisicin ...</div>
+    </div>
+</article>`
+                        
+                        all_articles += `<article class='article'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/virus.jpg);'></div>
+        <div class='article__info'>
+            <a href='/article/?id=8'>Топ 10 опасных компьютерных вирусов в 2021 году!</a>
+            <div class='article__info__meta'>
+                <small>Категория: <a href='/articles/?category=8'>Хакерство</a></small>
+            </div>
+        <div class='article__info__preview'>Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+    </div>
+</article>`
+                        
+                        all_articles += `<article class='article'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/assassin.jpg);'></div>
+        <div class='article__info'>
+            <a href='/article/?id=9'>Фильм Кредо Ассасина - Мой обзор</a>
+            <div class='article__info__meta'>
+                <small>Категория: <a href='/articles/?category=10'>Разное</a></small>
+            </div>
+        <div class='article__info__preview'>Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+    </div>
+</article>`
+                        
+                        all_articles += `<article class='article'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/web_design.jpg);'></div>
+        <div class='article__info'>
+            <a href='/article/?id=10'>Веб дизайн в 2021 году!</a>
+            <div class='article__info__meta'>
+                <small>Категория: <a href='/articles/?category=10'>Разное</a></small>
+            </div>
+        <div class='article__info__preview'>Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+    </div>
+</article>`
+                        
+                        all_articles += `<article class='article'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/hacker.jpg);'></div>
+        <div class='article__info'>
+            <a href='/article/?id=11'>10 самых известных хакеров мира!</a>
+            <div class='article__info__meta'>
+                <small>Категория: <a href='/articles/?category=8'>Хакерство</a></small>
+            </div>
+        <div class='article__info__preview'>Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+    </div>
+</article>`
+                        
+                        all_articles += `<article class='article'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/js.jpg);'></div>
+        <div class='article__info'>
+            <a href='/article/?id=12'>Реализация JavaScript в Node.js - В чём подвох?</a>
+            <div class='article__info__meta'>
+                <small>Категория: <a href='/articles/?category=4'>Программирование</a></small>
+            </div>
+        <div class='article__info__preview'>Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+    </div>
+</article>`
+                        
+                        all_articles += `<article class='article'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/fallout.jpg);'></div>
+        <div class='article__info'>
+            <a href='/article/?id=13'>Fallout 4 - Мой обзор</a>
+            <div class='article__info__meta'>
+                <small>Категория: <a href='/articles/?category=6'>Игры</a></small>
+            </div>
+        <div class='article__info__preview'>Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+    </div>
+</article>`
+                        
+                        all_articles += `<article class='article'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/kivy.png);'></div>
+        <div class='article__info'>
+            <a href='/article/?id=14'>Обзор новшеств фреймворка Kivy для Python</a>
+            <div class='article__info__meta'>
+                <small>Категория: <a href='/articles/?category=4'>Программирование</a></small>
+            </div>
+        <div class='article__info__preview'>Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+    </div>
+</article>`
+                        
+                        all_articles += `<article class='article'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/mustang.jpg);'></div>
+        <div class='article__info'>
+            <a href='/article/?id=15'>Новый спорткар от Mustang?</a>
+            <div class='article__info__meta'>
+                <small>Категория: <a href='/articles/?category=5'>Lifestyle</a></small>
+            </div>
+        <div class='article__info__preview'>Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+    </div>
+</article>`
+                        
+                        all_articles += `<article class='article'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/anonymous.jpg);'></div>
+        <div class='article__info'>
+            <a href='/article/?id=16'>Как узнать IP любого человека?</a>
+            <div class='article__info__meta'>
+                <small>Категория: <a href='/articles/?category=8'>Хакерство</a></small>
+            </div>
+        <div class='article__info__preview'>Lorem, ipsum dolor sit amet consectetur adipisicin ...</div>
+    </div>
+</article>`
+                        
+                        all_articles += `<article class='article'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/hacking.jpg);'></div>
+        <div class='article__info'>
+            <a href='/article/?id=17'>Как взломать "Блог IT Минималиста" в 2021 году?</a>
+            <div class='article__info__meta'>
+                <small>Категория: <a href='/articles/?category=8'>Хакерство</a></small>
+            </div>
+        <div class='article__info__preview'>Lorem ipsum dolor sit amet, consectetur adipisicin ...</div>
+    </div>
+</article>`
+                        
+                        all_articles += `<article class='article'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/prisoner.jpg);'></div>
+        <div class='article__info'>
+            <a href='/article/?id=18'>Почему быть хакером - полный отстой?</a>
+            <div class='article__info__meta'>
+                <small>Категория: <a href='/articles/?category=8'>Хакерство</a></small>
+            </div>
+        <div class='article__info__preview'>Lorem ipsum dolor sit amet, consectetur adipisicin ...</div>
+    </div>
+</article>`
+                        
+                        all_articles += `<article class='article'>
+    <div class='article__image' style='background-image: url(http://blog.com/wp-content/themes/Blog/static/antivirus.jpg);'></div>
+        <div class='article__info'>
+            <a href='/article/?id=19'>Топ 10 лучших антивирусов за 2021 год!</a>
+            <div class='article__info__meta'>
+                <small>Категория: <a href='/articles/?category=7'>Безопасность</a></small>
+            </div>
+        <div class='article__info__preview'>Lorem ipsum dolor sit amet, consectetur adipisicin ...</div>
+    </div>
+</article>`
+                        
+                articles = document.querySelector('.articles-old')
+                articles.innerHTML = all_articles
+            }
+        </script>
+    </body>
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Кэширование страницы с использованием disk: enhanced 
+
+Served from: blog.com @ 2022-01-06 13:20:40 by W3 Total Cache
+-->
