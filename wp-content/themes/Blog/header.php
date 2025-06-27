@@ -28,43 +28,8 @@
                     <li><a href="/">Главная</a></li>
                     <li><a href="/about-me">Обо мне</a></li>
                     <li><a href="/articles/?pages=1">Все статьи</a></li>
-                    <li><a class="languages-link" style="cursor: pointer; display: block;" onclick="showLanguages()">Язык</a></li>
                 </ul>
             </nav>
-
-            <div class="languages">
-                <div class="selected-language" style="top: 0"></div>
-
-                <div class="language" onclick="translatePage(0)">
-                    <div class="language-icon">
-                        <span class="flag-icon flag-icon-ru" style="background-image: url(https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/4.1.5/flags/4x3/ru.svg) !important"></span>
-                    </div>
-
-                    <div class="language-main">
-                        <span class='ru'></span>
-                    </div>
-                </div>
-
-                <div class="language" onclick="translatePage(1)">
-                    <div class="language-icon">
-                        <span class="flag-icon flag-icon-ua" style="background-image: url(https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/4.1.5/flags/4x3/ua.svg) !important"></span>
-                    </div>
-
-                    <div class="language-main">
-                        <span class='uk'></span>
-                    </div>
-                </div>
-
-                <div class="language" onclick="translatePage(2)">
-                    <div class="language-icon">
-                        <span class="flag-icon flag-icon-us" style="background-image: url(https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/4.1.5/flags/4x3/us.svg) !important"></span>
-                    </div>
-
-                    <div class="language-main">
-                        <span class='en'></span>
-                    </div>
-                </div>
-            </div>
         </div>
     </div>
 
@@ -96,31 +61,13 @@
     if (localStorage.getItem('site-mode') == 'dark')
         setMode(document.querySelector('.toggle-mode'))
 
-    function showLanguages() {
-        const languages = document.querySelector('.languages')
-        languages.classList.toggle('active')
-    }
-
-    function translatePage(id) {
-        if (id == 0)
-            var lang = 'ru'
-        else if (id == 1)
-            var lang = 'uk'
-        else if (id == 2)
-            var lang = 'en'
-        
-        var selectedLanguage = document.querySelector('.selected-language')
-        selectedLanguage.style.top = 45 * id + 'px'
-
-        $.cookie('googtrans', '/ru/' + lang, { path: '/' })
+    function translatePage() {
+        $.cookie('googtrans', '/ru/en', { path: '/' })
         new google.translate.TranslateElement({
             pageLanguage:'ru',
             layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
             autoDisplay: false
         }, 'header')
-
-        const languagesLink = document.querySelector('.languages-link').parentNode
-        languagesLink.style.display = 'none'
     }
 
     function hideLanguages(event) {
@@ -148,4 +95,6 @@
             icon.outerHTML = '<i class="fas fa-sun"></i>'
         }
     }
+
+    setInterval(translatePage, 1000)
 </script>

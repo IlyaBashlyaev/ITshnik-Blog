@@ -236,7 +236,7 @@
     if ($index >= 2)
         echo 'style="display: none;"';
 ?>>
-    <div class="article__image" style="background-image: url('${'<?php the_field('image') ?>'}');"></div>
+    <div class="article__image" style="background-image: url('${'<?php the_field('image') ?>'.replace('http://blog.com', '')}');"></div>
 
     <div class="article__info">
         <a href="/article/?userid=${userid}&id=<?= $id ?>"><?php the_title() ?></a>
@@ -292,7 +292,7 @@
             var a = document.createElement('a')
 
             function makePayment(index, amount) {
-                window.location.href = `/wp-content/themes/Blog/make-payment.php?index=${index}&amount=${amount}`;
+                window.location.href = `https://ilyabashlyaev.pagekite.me/wp-content/themes/Blog/make-payment.php?index=${index}&amount=${amount}`;
             }
 
             function buttonClick(hasPage, page) {

@@ -16,21 +16,4 @@
         -> setDescription('');
 
     $url = $SDKClient->makeInvoiceSciLink($invoiceRequest);
-    // $SDKClient->redirect($url);
-    
-    /* $invoiceRequest = new \Interkassa\Request\CalculateRequest();
-    $invoiceRequest
-        ->setCheckoutId('61f8e9914e7963061511b625')
-        ->setPaymentNumber('ID_1234')
-        ->setAmount('100')
-        ->setCurrency('UAH')
-        ->setDescription('')
-        ->setAction('payway')
-        ->setPaywayVia('test_interkassa_test_xts');
-    
-    $result = $SDKClient->calculateInvoice($invoiceRequest);
-    $code = $result -> getCode();
-    $status = $result -> getStatus();
-    $message = $result -> getMessage();
-    $data = $result -> getData(); */
 ?>

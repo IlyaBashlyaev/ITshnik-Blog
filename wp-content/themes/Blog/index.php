@@ -56,7 +56,7 @@
                                                             </div>
                                                         </div>
 
-                                                        <div class="custom-button buy-button" onclick="makePayment('<?= $index ?>', '<?php the_field('price'); ?>')">
+                                                        <div class="custom-button buy-button">
                                                             <span>Купить статью</span>
                                                         </div>
                                                     </article>
@@ -65,7 +65,7 @@
                                                         var articleImages = document.querySelector('.block__content').querySelectorAll('.article__image'),
                                                             lastArticleImage = articleImages[articleImages.length - 1],
                                                             imageSrc = '<?php the_field('image'); ?>'
-                                                        lastArticleImage.style.backgroundImage = `url("${imageSrc}")`
+                                                        lastArticleImage.style.backgroundImage = `url("${imageSrc.replace('http://blog.com', '')}")`
                                                     
                                                         $.ajax({
                                                             url: '<?= $template_url ?>/online-counter.php',
@@ -190,11 +190,6 @@
         ?>
 
         <script>
-            function makePayment(index, amount) {
-                window.location.href = `/wp-content/themes/Blog/make-payment.php?index=${index}&amount=${amount}`;
-                window.location.href = `/wp-content/themes/Blog/make-payment.php?index=${index}&amount=${amount}`;
-            }
-
             function showNewArticles() {
                 var all_articles = ''
 

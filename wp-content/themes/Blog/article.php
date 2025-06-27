@@ -190,7 +190,7 @@
 											<script>
 												var articleImage = document.querySelector('img'),
 													imageSrc = '<?php the_field('image'); ?>'
-												articleImage.src = imageSrc.replace('http://blog.com', '')
+												articleImage.src = imageSrc.replace('http://blog.local:8890', '')
 											</script>
 
 											<?php
@@ -226,7 +226,7 @@
 
 		<script>
 			function makePayment(index, amount) {
-                window.location.href = `/wp-content/themes/Blog/make-payment.php?index=${index}&amount=${amount}`;
+                window.location.href = `https://blog.local:8890/wp-content/themes/Blog/make-payment.php?index=${index}&amount=${amount}`;
             }
 			
 			function commentCreating(textarea) {
